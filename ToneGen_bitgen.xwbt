@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Xilinx\projects\ToneGeneratorProject\ToneGen.ncd
+OUTFILE=C:\Xilinx\projects\ToneGeneratorProject\ToneGen.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=C:\Xilinx\projects\ToneGeneratorProject
+LICENSE=WebPack
+USER_INFO=211249525_0_0_634
